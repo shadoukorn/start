@@ -7,4 +7,4 @@ echo "<body>";
 echo "<h1>Привет! Я PHP скрипт!</h1>";
 echo "</body>";
 echo "</html>";
-?>
+?> 
